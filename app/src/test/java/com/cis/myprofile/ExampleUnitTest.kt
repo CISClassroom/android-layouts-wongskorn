@@ -1,4 +1,4 @@
-package com.cis.androidlayouts
+package com.cis.myprofile
 
 import org.junit.Test
 

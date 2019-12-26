@@ -1,4 +1,4 @@
-package com.cis.androidlayouts
+package com.cis.myprofile
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
